@@ -1,7 +1,0 @@
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Jun 28 10:47 bowling
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 May  2 16:31 change
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Apr  2 16:49 circular-buffer
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Apr  2 17:34 knapsack
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Apr  2 16:26 protein-translation
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Jul  9 10:53 react
-drwxr-xr-x 8 mikemcgowan mikemcgowan 4096 Jul 24 08:56 simple-cipher
