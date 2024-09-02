@@ -98,3 +98,6 @@ tournament
 knapsack
 rotational-cipher
 yacht
+connect
+forth
+grep
