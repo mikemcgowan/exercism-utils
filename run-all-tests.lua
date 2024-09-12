@@ -36,7 +36,8 @@ end
 
 print(successful .. " out of " .. total .. " succeeded")
 if #failures > 0 then
-  print("The following exercises failed:")
+  local s = #failures == 1 and "exercise" or "exercises"
+  print("The following " .. #failures .. " " .. s .. " failed:")
   for _, v in ipairs(failures) do
     print(v)
   end
