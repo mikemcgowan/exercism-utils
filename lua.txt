@@ -106,3 +106,4 @@ saddle-points
 book-store
 game-of-life
 affine-cipher
+proverb
