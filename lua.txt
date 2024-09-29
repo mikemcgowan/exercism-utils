@@ -107,3 +107,5 @@ book-store
 game-of-life
 affine-cipher
 proverb
+twelve-days
+killer-sudoku-helper
